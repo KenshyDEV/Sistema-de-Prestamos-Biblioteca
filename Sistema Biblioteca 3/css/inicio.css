@@ -1,0 +1,158 @@
+/* Estilos CSS */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; /* Cambiar según tus preferencias */
+    background-image: url(/img/library-7408106_1280.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/*ESTILOS HEADER*/
+
+.head {
+    background-color: #2C3E50;
+    color: #fff; /* Color del texto del encabezado */
+    padding: 20px;
+    display: flex;
+    justify-content: space-between; /* Distribuye los elementos a lo largo del eje principal (horizontal) */
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img{
+    height: 70px;
+    width: 70px;
+}
+
+.logo h1 {
+    margin-left: 10px; /* Espacio entre el icono y el texto */
+    font-size: 17px;
+}
+
+/*ESTILOS NAV*/
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo h1 {
+    margin-left: 10px; /* Espacio entre el icono y el texto */
+    font-size: 17px;
+}
+
+.head i {
+    font-size: 24px; /* Tamaño de los iconos */
+}
+
+.nav-links ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-links li {
+    display: inline;
+    margin-left: 20px; /* Espacio entre elementos de la lista */
+   
+}
+
+.nav-links a {
+    color: #fff; /* Color del texto de los enlaces */
+    text-decoration: none;
+    
+}
+
+.nav-links a:hover {
+    color: rgb(255, 196, 0);
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+
+/*ESTILS CONTAINER*/
+
+.container {
+  
+    width: 800px; /* Ancho del contenedor */
+    height: 800px; /* Alto del contenedor */
+    margin: 0 auto; /* Margen automático para centrar horizontalmente */
+    margin-bottom: 50px;
+    margin-top: 50px;
+    background-color: #f0f0f0; /* Color de fondo del contenedor (solo para visualización) */
+    border-radius: 20px;
+    display: grid; /* Utilizar CSS Grid */
+    grid-template-columns: repeat(3, 200px); /* Dos columnas de 200px cada una */
+    grid-template-rows: repeat(3, 200px); /* Tres filas de 200px cada una */
+    gap: 20px; /* Espacio entre las cajas */
+    justify-content: center; /* Centrar horizontalmente las cajas */
+    align-content: center; /* Centrar verticalmente las cajas */
+
+}
+
+
+.box {
+    width: 200px; /* Ancho de la caja */
+    height: 200px; /* Alto de la caja */
+    background-color: #ffffff; /* Color de fondo de la caja */
+    border-radius: 10px; /* Borde redondeado */
+    display: flex; /* Utilizar flexbox para alinear contenido verticalmente */
+    flex-direction: column; /* Alinear contenido verticalmente */
+    justify-content: center; /* Centrar contenido verticalmente */
+    align-items: center; /* Centrar contenido horizontalmente */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    transition: all 0.3s ease;
+}
+
+.box i {
+    font-size: 40px; /* Tamaño del ícono */
+    margin-bottom: 10px; /* Espacio entre el ícono y el texto */
+    text-align: center;
+}
+
+.box span {
+    font-size: 16px; /* Tamaño del texto */
+}
+
+.box a{
+    color: black;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.box:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    box-shadow: 0px 0px 17px 0px rgb(255, 255, 255);
+}
+
+
+
+footer {
+    background-color: #2C3E50;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+footer p {
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+footer p:first-child {
+    margin-top: 0;
+}
+
+footer a{
+    color: #ffffff;
+}

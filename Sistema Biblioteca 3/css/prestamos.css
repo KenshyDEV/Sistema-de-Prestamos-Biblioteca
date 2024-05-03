@@ -1,0 +1,196 @@
+/* Estilos CSS */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; /* Cambiar según tus preferencias */
+
+}
+
+/*ESTILOS HEADER*/
+
+.head {
+    background-color: #2C3E50;
+    color: #fff; /* Color del texto del encabezado */
+    padding: 20px;
+    display: flex;
+    justify-content: space-between; /* Distribuye los elementos a lo largo del eje principal (horizontal) */
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img{
+    height: 70px;
+    width: 70px;
+}
+
+.logo h1 {
+    margin-left: 10px; /* Espacio entre el icono y el texto */
+    font-size: 17px;
+}
+
+/*ESTILOS NAV*/
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo h1 {
+    margin-left: 10px; /* Espacio entre el icono y el texto */
+    font-size: 17px;
+}
+
+.head i {
+    font-size: 24px; /* Tamaño de los iconos */
+}
+
+.nav-links ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-links li {
+    display: inline;
+    margin-left: 20px; /* Espacio entre elementos de la lista */
+   
+}
+
+.nav-links a {
+    color: #fff; /* Color del texto de los enlaces */
+    text-decoration: none;
+    
+}
+
+.nav-links a:hover {
+    color: rgb(255, 196, 0);
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+
+.Realizar-Prestamo {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 800px; /* Ancho máximo del formulario */
+    margin: 0 auto; /* Centrar horizontalmente */
+    margin-top: 50px; /* Espacio superior */
+}
+
+.Realizar-Prestamo h2 {
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center; /* Centrar texto */
+}
+
+.Realizar-Prestamo label {
+    margin-bottom: 10px;
+    display: block;
+    font-weight: bold;
+    color: #555;
+}
+
+.Realizar-Prestamo input[type="text"],
+.Realizar-Prestamo input[type="email"],
+.Realizar-Prestamo input[type="number"],
+.Realizar-Prestamo select {
+    width: calc(100% - 24px); /* Ancho ajustado por el padding */
+    padding: 12px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+.Realizar-Prestamo select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url('data:image/svg+xml;utf8,<svg fill="%23333" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z" /></svg>');
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    background-size: 20px;
+    padding-right: 40px;
+}
+
+.Realizar-Prestamo button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+    display: block;
+    margin: 0 auto; /* Centrar botón */
+}
+
+.Realizar-Prestamo button:hover {
+    background-color: #45a049;
+}
+
+.Prestamos-Realizados {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+
+/*estilo prestamos realizados*/
+
+.Prestamos-Realizados {
+    text-align: center;
+}
+
+.tabla-prestamos {
+    width: 1000px;
+    margin: 0 auto;
+    overflow-x: auto;
+}
+
+.tabla-prestamos table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tabla-prestamos th,
+.tabla-prestamos td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+}
+
+.tabla-prestamos th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+
+footer {
+    background-color: #2C3E50;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+footer p {
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+footer p:first-child {
+    margin-top: 0;
+}
+
+footer a{
+    color: #ffffff;
+}

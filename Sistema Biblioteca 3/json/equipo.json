@@ -1,0 +1,303 @@
+[
+    {
+      "Codigo": "001",
+      "Nombre": "PC Ryzen 7",
+      "Categoria": "Computadoras",
+      "Cantidad": 5
+    },
+    {
+      "Codigo": "002",
+      "Nombre": "PC Ryzen 5",
+      "Categoria": "Computadoras",
+      "Cantidad": 3
+    },
+    {
+      "Codigo": "003",
+      "Nombre": "Portátil Lenovo ThinkPad",
+      "Categoria": "Portatiles",
+      "Cantidad": 8
+    },
+    {
+      "Codigo": "004",
+      "Nombre": "Proyector Epson",
+      "Categoria": "Proyectores",
+      "Cantidad": 5
+    },
+    {
+      "Codigo": "005",
+      "Nombre": "Altavoces Logitech",
+      "Categoria": "Equipos de Sonido",
+      "Cantidad": 3
+    },
+    {
+      "Codigo": "006",
+      "Nombre": "Impresora láser HP",
+      "Categoria": "Impresoras",
+      "Cantidad": 6
+    },
+    {
+      "Codigo": "007",
+      "Nombre": "Teclado HP",
+      "Categoria": "Perifericos",
+      "Cantidad": 15
+    },
+    {
+      "Codigo": "008",
+      "Nombre": "Ratón inalámbrico Logitech",
+      "Categoria": "Perifericos",
+      "Cantidad": 12
+    },
+    {
+      "Codigo": "009",
+      "Nombre": "Tablet Samsung Galaxy Tab",
+      "Categoria": "Tablets",
+      "Cantidad": 7
+    },
+    {
+      "Codigo": "010",
+      "Nombre": "Calculadora científica Casio",
+      "Categoria": "Herramientas de Oficina",
+      "Cantidad": 10
+    },
+    {
+      "Codigo": "011",
+      "Nombre": "Microscopio",
+      "Categoria": "Laboratorios",
+      "Cantidad": 3
+    },
+    {
+      "Codigo": "012",
+      "Nombre": "Balanza Analítica",
+      "Categoria": "Laboratorios",
+      "Cantidad": 2
+    },
+    {
+      "Codigo": "013",
+      "Nombre": "PC HP Pavilion",
+      "Categoria": "Computadoras",
+      "Cantidad": 4
+    },
+    {
+      "Codigo": "014",
+      "Nombre": "Portátil Dell Inspiron",
+      "Categoria": "Portatiles",
+      "Cantidad": 6
+    },
+    {
+      "Codigo": "015",
+      "Nombre": "Proyector BenQ",
+      "Categoria": "Proyectores",
+      "Cantidad": 4
+    },
+    {
+      "Codigo": "016",
+      "Nombre": "Cámara de seguridad",
+      "Categoria": "Equipos de Seguridad",
+      "Cantidad": 5
+    },
+    {
+      "Codigo": "017",
+      "Nombre": "Escáner Epson",
+      "Categoria": "Impresoras",
+      "Cantidad": 3
+    },
+    {
+      "Codigo": "018",
+      "Nombre": "Teclado Logitech G213",
+      "Categoria": "Perifericos",
+      "Cantidad": 9
+    },
+    {
+      "Codigo": "019",
+      "Nombre": "Ratón inalámbrico Microsoft",
+      "Categoria": "Perifericos",
+      "Cantidad": 8
+    },
+    {
+      "Codigo": "020",
+      "Nombre": "Tablet Lenovo Tab M10",
+      "Categoria": "Tablets",
+      "Cantidad": 6
+    },
+    {
+      "Codigo": "021",
+      "Nombre": "Calculadora financiera HP 12C",
+      "Categoria": "Herramientas de Oficina",
+      "Cantidad": 7
+    },
+    {
+      "Codigo": "022",
+      "Nombre": "Espectrofotómetro",
+      "Categoria": "Laboratorios",
+      "Cantidad": 2
+    },
+    {
+      "Codigo": "023",
+      "Nombre": "Centrífuga",
+      "Categoria": "Laboratorios",
+      "Cantidad": 3
+    },
+    {
+      "Codigo": "024",
+      "Nombre": "PC Gamer Ryzen 9",
+      "Categoria": "Computadoras",
+      "Cantidad": 2
+    },
+    {
+      "Codigo": "025",
+      "Nombre": "Portátil HP EliteBook",
+      "Categoria": "Portatiles",
+      "Cantidad": 7
+    },
+    {
+      "Codigo": "026",
+      "Nombre": "Pantalla interactiva SMART",
+      "Categoria": "Proyectores",
+      "Cantidad": 3
+    },
+    {
+      "Codigo": "027",
+      "Nombre": "Detector de metales",
+      "Categoria": "Equipos de Seguridad",
+      "Cantidad": 4
+    },
+    {
+      "Codigo": "028",
+      "Nombre": "Impresora de etiquetas Brother",
+      "Categoria": "Impresoras",
+      "Cantidad": 5
+    },
+    {
+      "Codigo": "029",
+      "Nombre": "Teclado mecánico Corsair K95",
+      "Categoria": "Perifericos",
+      "Cantidad": 10
+    },
+    {
+      "Codigo": "030",
+      "Nombre": "Ratón gamer Razer DeathAdder",
+      "Categoria": "Perifericos",
+      "Cantidad": 8
+    },
+    {
+      "Codigo": "031",
+      "Nombre": "Tablet Amazon Fire HD",
+      "Categoria": "Tablets",
+      "Cantidad": 4
+    },
+    {
+      "Codigo": "032",
+      "Nombre": "Cortadora de papel",
+      "Categoria": "Herramientas de Oficina",
+      "Cantidad": 6
+    },
+    {
+      "Codigo": "033",
+      "Nombre": "Microscopio de fluorescencia",
+      "Categoria": "Laboratorios",
+      "Cantidad": 1
+    },
+    {
+      "Codigo": "034",
+      "Nombre": "Autoclave",
+      "Categoria": "Laboratorios",
+      "Cantidad": 2
+    },
+    {
+      "Codigo": "035",
+      "Nombre": "PC Lenovo ThinkCentre",
+      "Categoria": "Computadoras",
+      "Cantidad": 3
+    },
+    {
+      "Codigo": "036",
+      "Nombre": "Portátil Acer Aspire",
+      "Categoria": "Portatiles",
+      "Cantidad": 5
+    },
+    {
+      "Codigo": "037",
+      "Nombre": "Proyector Optoma",
+      "Categoria": "Proyectores",
+      "Cantidad": 2
+    },
+    {
+      "Codigo": "038",
+      "Nombre": "Cámara de vigilancia exterior",
+      "Categoria": "Equipos de Seguridad",
+      "Cantidad": 3
+    },
+    {
+      "Codigo": "039",
+      "Nombre": "Impresora multifunción Canon PIXMA",
+      "Categoria": "Impresoras",
+      "Cantidad": 4
+    },
+    {
+      "Codigo": "040",
+      "Nombre": "Teclado inalámbrico Apple Magic Keyboard",
+      "Categoria": "Perifericos",
+      "Cantidad": 7
+    },
+    {
+      "Codigo": "041",
+      "Nombre": "Ratón vertical Ergonomic Mouse",
+      "Categoria": "Perifericos",
+      "Cantidad": 5
+    },
+    {
+      "Codigo": "042",
+      "Nombre": "Tablet Huawei MediaPad",
+      "Categoria": "Tablets",
+      "Cantidad": 3
+    },
+    {
+      "Codigo": "043",
+      "Nombre": "Cizalla",
+      "Categoria": "Herramientas de Oficina",
+      "Cantidad": 4
+    },
+    {
+      "Codigo": "044",
+      "Nombre": "Espectrómetro de masas",
+      "Categoria": "Laboratorios",
+      "Cantidad": 1
+    },
+    {
+      "Codigo": "045",
+      "Nombre": "Microscopio electrónico",
+      "Categoria": "Laboratorios",
+      "Cantidad": 2
+    },
+    {
+      "Codigo": "046",
+      "Nombre": "PC Dell OptiPlex",
+      "Categoria": "Computadoras",
+      "Cantidad": 4
+    },
+    {
+      "Codigo": "047",
+      "Nombre": "Portátil Asus VivoBook",
+      "Categoria": "Portatiles",
+      "Cantidad": 6
+    },
+    {
+      "Codigo": "048",
+      "Nombre": "Proyector ViewSonic",
+      "Categoria": "Proyectores",
+      "Cantidad": 3
+    },
+    {
+      "Codigo": "049",
+      "Nombre": "Cámara de seguridad WiFi",
+      "Categoria": "Equipos de Seguridad",
+      "Cantidad": 4
+    },
+    {
+      "Codigo": "050",
+      "Nombre": "Impresora láser multifunción Epson WorkForce",
+      "Categoria": "Impresoras",
+      "Cantidad": 5
+    }
+  ]
+  

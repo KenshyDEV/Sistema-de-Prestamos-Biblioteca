@@ -1,0 +1,417 @@
+[
+    {
+      "Codigo": "001",
+      "Nombre del Libro": "El Alquimista",
+      "Autor": "Paulo Coelho",
+      "Categoria": "Ficción",
+      "Cantidad": 10
+    },
+    {
+      "Codigo": "002",
+      "Nombre del Libro": "Cien años de soledad",
+      "Autor": "Gabriel García Márquez",
+      "Categoria": "Ficción",
+      "Cantidad": 8
+    },
+    {
+      "Codigo": "003",
+      "Nombre del Libro": "El Principito",
+      "Autor": "Antoine de Saint-Exupéry",
+      "Categoria": "Infantil",
+      "Cantidad": 15
+    },
+    {
+      "Codigo": "004",
+      "Nombre del Libro": "Matar un ruiseñor",
+      "Autor": "Harper Lee",
+      "Categoria": "Ficción",
+      "Cantidad": 12
+    },
+    {
+      "Codigo": "005",
+      "Nombre del Libro": "Harry Potter y la piedra filosofal",
+      "Autor": "J.K. Rowling",
+      "Categoria": "Fantasía",
+      "Cantidad": 20
+    },
+    {
+      "Codigo": "006",
+      "Nombre del Libro": "1984",
+      "Autor": "George Orwell",
+      "Categoria": "Ciencia Ficción",
+      "Cantidad": 18
+    },
+    {
+      "Codigo": "007",
+      "Nombre del Libro": "Orgullo y prejuicio",
+      "Autor": "Jane Austen",
+      "Categoria": "Clásico",
+      "Cantidad": 10
+    },
+    {
+      "Codigo": "008",
+      "Nombre del Libro": "El señor de los anillos",
+      "Autor": "J.R.R. Tolkien",
+      "Categoria": "Fantasía",
+      "Cantidad": 25
+    },
+    {
+      "Codigo": "009",
+      "Nombre del Libro": "Don Quijote de la Mancha",
+      "Autor": "Miguel de Cervantes",
+      "Categoria": "Clásico",
+      "Cantidad": 22
+    },
+    {
+      "Codigo": "010",
+      "Nombre del Libro": "Crónica de una muerte anunciada",
+      "Autor": "Gabriel García Márquez",
+      "Categoria": "Ficción",
+      "Cantidad": 14
+    },
+    {
+      "Codigo": "011",
+      "Nombre del Libro": "El Hobbit",
+      "Autor": "J.R.R. Tolkien",
+      "Categoria": "Fantasía",
+      "Cantidad": 18
+    },
+    {
+      "Codigo": "012",
+      "Nombre del Libro": "El retrato de Dorian Gray",
+      "Autor": "Oscar Wilde",
+      "Categoria": "Clásico",
+      "Cantidad": 11
+    },
+    {
+      "Codigo": "013",
+      "Nombre del Libro": "Las aventuras de Tom Sawyer",
+      "Autor": "Mark Twain",
+      "Categoria": "Aventura",
+      "Cantidad": 16
+    },
+    {
+      "Codigo": "014",
+      "Nombre del Libro": "Las crónicas de Narnia",
+      "Autor": "C.S. Lewis",
+      "Categoria": "Fantasía",
+      "Cantidad": 21
+    },
+    {
+      "Codigo": "015",
+      "Nombre del Libro": "Anna Karenina",
+      "Autor": "Lev Tolstói",
+      "Categoria": "Clásico",
+      "Cantidad": 13
+    },
+    {
+      "Codigo": "016",
+      "Nombre del Libro": "El código Da Vinci",
+      "Autor": "Dan Brown",
+      "Categoria": "Suspenso",
+      "Cantidad": 19
+    },
+    {
+      "Codigo": "017",
+      "Nombre del Libro": "El viejo y el mar",
+      "Autor": "Ernest Hemingway",
+      "Categoria": "Clásico",
+      "Cantidad": 10
+    },
+    {
+      "Codigo": "018",
+      "Nombre del Libro": "El cuento de la criada",
+      "Autor": "Margaret Atwood",
+      "Categoria": "Ciencia Ficción",
+      "Cantidad": 15
+    },
+    {
+      "Codigo": "019",
+      "Nombre del Libro": "La Odisea",
+      "Autor": "Homero",
+      "Categoria": "Clásico",
+      "Cantidad": 20
+    },
+    {
+      "Codigo": "020",
+      "Nombre del Libro": "Crimen y castigo",
+      "Autor": "Fyodor Dostoyevsky",
+      "Categoria": "Clásico",
+      "Cantidad": 17
+    },
+    {
+      "Codigo": "021",
+      "Nombre del Libro": "Romeo y Julieta",
+      "Autor": "William Shakespeare",
+      "Categoria": "Clásico",
+      "Cantidad": 12
+    },
+    {
+      "Codigo": "022",
+      "Nombre del Libro": "El guardian entre el centeno",
+      "Autor": "J.D. Salinger",
+      "Categoria": "Ficción",
+      "Cantidad": 14
+    },
+    {
+      "Codigo": "023",
+      "Nombre del Libro": "La metamorfosis",
+      "Autor": "Franz Kafka",
+      "Categoria": "Clásico",
+      "Cantidad": 13
+    },
+    {
+      "Codigo": "024",
+      "Nombre del Libro": "El león, la bruja y el armario",
+      "Autor": "C.S. Lewis",
+      "Categoria": "Fantasía",
+      "Cantidad": 16
+    },
+    {
+      "Codigo": "025",
+      "Nombre del Libro": "Los miserables",
+      "Autor": "Victor Hugo",
+      "Categoria": "Clásico",
+      "Cantidad": 19
+    },
+    {
+      "Codigo": "026",
+      "Nombre del Libro": "Frankenstein",
+      "Autor": "Mary Shelley",
+      "Categoria": "Clásico",
+      "Cantidad": 11
+    },
+    {
+      "Codigo": "027",
+      "Nombre del Libro": "Hamlet",
+      "Autor": "William Shakespeare",
+      "Categoria": "Clásico",
+      "Cantidad": 15
+    },
+    {
+      "Codigo": "028",
+      "Nombre del Libro": "Moby Dick",
+      "Autor": "Herman Melville",
+      "Categoria": "Aventura",
+      "Cantidad": 18
+    },
+    {
+      "Codigo": "029",
+      "Nombre del Libro": "Drácula",
+      "Autor": "Bram Stoker",
+      "Categoria": "Terror",
+      "Cantidad": 13
+    },
+    {
+      "Codigo": "030",
+      "Nombre del Libro": "La isla del tesoro",
+      "Autor": "Robert Louis Stevenson",
+      "Categoria": "Aventura",
+      "Cantidad": 16
+    },
+    {
+      "Codigo": "031",
+      "Nombre del Libro": "El conde de Montecristo",
+      "Autor": "Alexandre Dumas",
+      "Categoria": "Aventura",
+      "Cantidad": 21
+    },
+    {
+      "Codigo": "032",
+      "Nombre del Libro": "La Iliada",
+      "Autor": "Homero",
+      "Categoria": "Clásico",
+      "Cantidad": 20
+    },
+    {
+      "Codigo": "033",
+      "Nombre del Libro": "La vuelta al mundo en 80 días",
+      "Autor": "Jules Verne",
+      "Categoria": "Aventura",
+      "Cantidad": 17
+    },
+    {
+      "Codigo": "034",
+      "Nombre del Libro": "El médico",
+      "Autor": "Noah Gordon",
+      "Categoria": "Histórico",
+      "Cantidad": 15
+    },
+    {
+      "Codigo": "035",
+      "Nombre del Libro": "La sombra del viento",
+      "Autor": "Carlos Ruiz Zafón",
+      "Categoria": "Misterio",
+      "Cantidad": 14
+    },
+    {
+      "Codigo": "036",
+      "Nombre del Libro": "El perfume",
+      "Autor": "Patrick Süskind",
+      "Categoria": "Ficción",
+      "Cantidad": 16
+    },
+    {
+      "Codigo": "037",
+      "Nombre del Libro": "El nombre del viento",
+      "Autor": "Patrick Rothfuss",
+      "Categoria": "Fantasía",
+      "Cantidad": 19
+    },
+    {
+      "Codigo": "038",
+      "Nombre del Libro": "Los pilares de la Tierra",
+      "Autor": "Ken Follett",
+      "Categoria": "Histórico",
+      "Cantidad": 20
+    },
+    {
+      "Codigo": "039",
+      "Nombre del Libro": "El retrato de Dorian Gray",
+      "Autor": "Oscar Wilde",
+      "Categoria": "Clásico",
+      "Cantidad": 16
+    },
+    {
+      "Codigo": "040",
+      "Nombre del Libro": "La hoguera de las vanidades",
+      "Autor": "Tom Wolfe",
+      "Categoria": "Ficción",
+      "Cantidad": 18
+    },
+    {
+      "Codigo": "041",
+      "Nombre del Libro": "Los hombres que no amaban a las mujeres",
+      "Autor": "Stieg Larsson",
+      "Categoria": "Misterio",
+      "Cantidad": 15
+    },
+    {
+      "Codigo": "042",
+      "Nombre del Libro": "El silmarillion",
+      "Autor": "J.R.R. Tolkien",
+      "Categoria": "Fantasía",
+      "Cantidad": 14
+    },
+    {
+      "Codigo": "043",
+      "Nombre del Libro": "La naranja mecánica",
+      "Autor": "Anthony Burgess",
+      "Categoria": "Ciencia Ficción",
+      "Cantidad": 12
+    },
+    {
+      "Codigo": "044",
+      "Nombre del Libro": "Los juegos del hambre",
+      "Autor": "Suzanne Collins",
+      "Categoria": "Ciencia Ficción",
+      "Cantidad": 21
+    },
+    {
+      "Codigo": "045",
+      "Nombre del Libro": "El alquimista",
+      "Autor": "Paulo Coelho",
+      "Categoria": "Ficción",
+      "Cantidad": 22
+    },
+    {
+      "Codigo": "046",
+      "Nombre del Libro": "Bajo la misma estrella",
+      "Autor": "John Green",
+      "Categoria": "Juvenil",
+      "Cantidad": 18
+    },
+    {
+      "Codigo": "047",
+      "Nombre del Libro": "Mujercitas",
+      "Autor": "Louisa May Alcott",
+      "Categoria": "Clásico",
+      "Cantidad": 16
+    },
+    {
+      "Codigo": "048",
+      "Nombre del Libro": "Moby Dick",
+      "Autor": "Herman Melville",
+      "Categoria": "Aventura",
+      "Cantidad": 17
+    },
+    {
+      "Codigo": "049",
+      "Nombre del Libro": "Lolita",
+      "Autor": "Vladimir Nabokov",
+      "Categoria": "Clásico",
+      "Cantidad": 20
+    },
+    {
+      "Codigo": "050",
+      "Nombre del Libro": "Matilda",
+      "Autor": "Roald Dahl",
+      "Categoria": "Infantil",
+      "Cantidad": 22
+    },
+    {
+      "Codigo": "051",
+      "Nombre del Libro": "Lo que el viento se llevó",
+      "Autor": "Margaret Mitchell",
+      "Categoria": "Histórico",
+      "Cantidad": 19
+    },
+    {
+      "Codigo": "052",
+      "Nombre del Libro": "El código Da Vinci",
+      "Autor": "Dan Brown",
+      "Categoria": "Suspenso",
+      "Cantidad": 14
+    },
+    {
+      "Codigo": "053",
+      "Nombre del Libro": "La chica del tren",
+      "Autor": "Paula Hawkins",
+      "Categoria": "Misterio",
+      "Cantidad": 16
+    },
+    {
+      "Codigo": "054",
+      "Nombre del Libro": "Harry Potter y el prisionero de Azkaban",
+      "Autor": "J.K. Rowling",
+      "Categoria": "Fantasía",
+      "Cantidad": 23
+    },
+    {
+      "Codigo": "055",
+      "Nombre del Libro": "La cabaña",
+      "Autor": "William Paul Young",
+      "Categoria": "Ficción",
+      "Cantidad": 15
+    },
+    {
+      "Codigo": "056",
+      "Nombre del Libro": "El visitante",
+      "Autor": "Stephen King",
+      "Categoria": "Terror",
+      "Cantidad": 17
+    },
+    {
+      "Codigo": "057",
+      "Nombre del Libro": "Las uvas de la ira",
+      "Autor": "John Steinbeck",
+      "Categoria": "Clásico",
+      "Cantidad": 14
+    },
+    {
+      "Codigo": "058",
+      "Nombre del Libro": "Las correcciones",
+      "Autor": "Jonathan Franzen",
+      "Categoria": "Ficción",
+      "Cantidad": 16
+    },
+    {
+      "Codigo": "059",
+      "Nombre del Libro": "El atlas de las nubes",
+      "Autor": "David Mitchell",
+      "Categoria": "Ficción",
+      "Cantidad": 18
+    }
+]
+  
+  
